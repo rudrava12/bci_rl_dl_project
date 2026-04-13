@@ -282,7 +282,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-BCI Research Team
+- [@rudrava12](https://www.github.com/rudrava12)
 
 ## 🤝 Contributing
 
